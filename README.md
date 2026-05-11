@@ -35,7 +35,7 @@ flowchart TD
 
     D -->|Matched Context| C
 
-    C -->|Prompt + Context + History| E[Gemini 1.5 Flash API]
+    C -->|Prompt + Context + History| E[Gemini 2.5 Flash API]
 
     E -->|AI Response| C
 
