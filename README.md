@@ -13,7 +13,7 @@ Built as a practical MVP for rapid deployment and extensibility.
 | Feature | Description |
 |---|---|
 | AI Chat Assistant | WhatsApp-inspired customer support interface with real-time messaging |
-| Gemini AI Integration | Context-aware support responses generated using Gemini 1.5 Flash |
+| Gemini AI Integration | Context-aware support responses generated using Gemini 2.5 Flash |
 | FAQ Retrieval System | Keyword-based knowledge base matching for grounded responses |
 | Smart Escalation Workflow | Automatically escalates unresolved or low-confidence conversations |
 | Human Support Escalation | Manual “Talk to Human” option for seamless fallback support |
